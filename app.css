@@ -101,6 +101,7 @@ html,body{
 
 #bottom-a{
     margin-top: 25% !important;
+    position:absolute;
  }
 
  /* .popover{
